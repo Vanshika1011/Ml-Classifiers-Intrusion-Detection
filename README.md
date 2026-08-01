@@ -50,13 +50,9 @@ ML-Classifiers-Intrusion-Detection
 │
 ├── train.csv
 ├── test.csv
-├── Intrusion_Detection.ipynb
-├── README.md
-└── images
-    ├── accuracy_comparison.png
-    ├── confusion_matrix.png
-    └── classification_report.png
-```
+├── Intrusion_Detection_ML_Classifiers.ipynb
+├── ML_Classifiers_Project_Report.pdf
+└── README.md
 
 ---
 
